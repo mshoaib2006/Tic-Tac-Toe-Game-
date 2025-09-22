@@ -3,7 +3,7 @@
  
  # Live Play: https://tic-tac-toe-game1.streamlit.app/
 
-# Tic-Tac-Toe-Game-using-Streamlit
+
 #  Tic Tac Toe Game  
 
 An interactive **Tic-Tac-Toe game** built with **Streamlit** in Python.  
